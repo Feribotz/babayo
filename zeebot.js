@@ -465,7 +465,7 @@ switch (command) {
         sendButLocation(from, monospace(menu), `${p}#Quotes Hari Ini!!${p}\n${p}${hasil}${p}\n${p}${wita} || ${tanggal()}${p}`, tamnel, but, {quoted: mek})
           break
     case 'sewa':
-          tes =`isi Sendiri`
+          tes =`1HARI 1K 1BULAN 5K 1THN 10K`
           zee.sendMessage(from, tes, text, {quoted: troli})
           break  
           
